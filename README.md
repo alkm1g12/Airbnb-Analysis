@@ -2,7 +2,7 @@
 
 Rendered version can be viewed [here](https://github.com/alkm1g12/Airbnb-Analysis/blob/master/output/Airbnb.md)
 
-This is a project analysing the Airbnb London listings dataset, to observe the effect that different types of litsings, and their availability have on the local housing market. This project was inspired by news articles discussing the affect airbnb is having on neighbourhoods (e.g. https://www.bbc.co.uk/news/business-45083954).
+This is a project analysing the Airbnb London listings dataset, to observe the effect that different types of litsings, and their availability, have on the local housing market. This project was inspired by news articles discussing the affect airbnb is having on neighbourhoods (e.g. https://www.bbc.co.uk/news/business-45083954).
 
 The key findings include: 
 
